@@ -1,0 +1,509 @@
+[
+  {
+    "name": "user_guide",
+    "title": "用户指南",
+    "url": "/md-files/用户指南/index.md",
+    "sub": [
+      {
+        "name": "权限管理",
+        "title": "权限管理",
+        "url": "/md-files/用户指南/创建用户并授权使用SFS.md",
+        "sub": [
+          {
+            "name": "创建用户并授权使用SFS",
+            "title": "创建用户并授权使用SFS",
+            "url": "/md-files/用户指南/创建用户并授权使用SFS.md"
+          },
+          {
+            "name": "创建SFS自定义策略",
+            "title": "创建SFS自定义策略",
+            "url": "/md-files/用户指南/创建SFS自定义策略.md"
+          }
+        ]
+      },
+      {
+        "name": "管理文件系统",
+        "title": "管理文件系统",
+        "url": "/md-files/用户指南/管理文件系统.md"
+      },
+      {
+        "name": "网络配置",
+        "title": "网络配置",
+        "url": "/md-files/用户指南/配置多VPC.md",
+        "sub": [
+          {
+            "name": "配置多VPC",
+            "title": "配置多VPC",
+            "url": "/md-files/用户指南/配置多VPC.md"
+          },
+          {
+            "name": "配置多账号访问",
+            "title": "配置多账号访问",
+            "url": "/md-files/用户指南/配置多账号访问.md"
+          },
+          {
+            "name": "配置DNS",
+            "title": "配置DNS",
+            "url": "/md-files/用户指南/配置DNS.md"
+          }
+        ]
+      },
+      {
+        "name": "容量调整",
+        "title": "容量调整",
+        "url": "/md-files/用户指南/容量调整.md"
+      },
+      {
+        "name": "配额",
+        "title": "配额",
+        "url": "/md-files/用户指南/配额.md"
+      },
+      {
+        "name": "加密",
+        "title": "加密",
+        "url": "/md-files/用户指南/加密.md"
+      },
+      {
+        "name": "备份",
+        "title": "备份",
+        "url": "/md-files/用户指南/备份.md"
+      },
+      {
+        "name": "监控",
+        "title": "监控",
+        "url": "/md-files/用户指南/弹性文件服务监控指标说明.md",
+        "sub": [
+          {
+            "name": "弹性文件服务监控指标说明",
+            "title": "弹性文件服务监控指标说明",
+            "url": "/md-files/用户指南/弹性文件服务监控指标说明.md"
+          },
+          {
+            "name": "SFS-Turbo监控指标说明",
+            "title": "SFS-Turbo监控指标说明",
+            "url": "/md-files/用户指南/SFS-Turbo监控指标说明.md"
+          },
+          {
+            "name": "创建告警规则",
+            "title": "创建告警规则",
+            "url": "/md-files/用户指南/创建告警规则.md"
+          }
+        ]
+      },
+      {
+        "name": "审计",
+        "title": "审计",
+        "url": "/md-files/用户指南/审计.md"
+      },
+      {
+        "name": "典型应用举例",
+        "title": "典型应用举例",
+        "url": "/md-files/用户指南/典型应用举例.md",
+        "sub": [
+          {
+            "name": "媒体处理",
+            "title": "媒体处理",
+            "url": "/md-files/用户指南/媒体处理.md"
+          },
+          {
+            "name": "企业网站-APP后台",
+            "title": "企业网站-APP后台",
+            "url": "/md-files/用户指南/企业网站-APP后台.md"
+          },
+          {
+            "name": "日志打印",
+            "title": "日志打印",
+            "url": "/md-files/用户指南/日志打印.md"
+          }
+        ]
+      },
+      {
+        "name": "其他操作",
+        "title": "其他操作",
+        "url": "/md-files/用户指南/SFS-Turbo性能测试.md",
+        "sub": [
+          {
+            "name": "SFS-Turbo性能测试",
+            "title": "SFS-Turbo性能测试",
+            "url": "/md-files/用户指南/SFS-Turbo性能测试.md"
+          },
+          {
+            "name": "使用非root的普通用户挂载文件系统到Linux云服务器",
+            "title": "使用非root的普通用户挂载文件系统到Linux云服务器",
+            "url": "/md-files/用户指南/使用非root的普通用户挂载文件系统到Linux云服务器.md"
+          },
+          {
+            "name": "将数据迁移至SFS Turbo",
+            "title": "将数据迁移至SFS Turbo",
+            "url": "/md-files/用户指南/通过云专线迁移.md",
+            "sub": [
+              {
+                "name": "通过云专线迁移",
+                "title": "通过云专线迁移",
+                "url": "/md-files/用户指南/通过云专线迁移.md"
+              },
+              {
+                "name": "使用公网迁移",
+                "title": "使用公网迁移",
+                "url": "/md-files/用户指南/使用公网迁移.md"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "api_reference",
+    "title": "API参考",
+    "url": "/md-files/API参考/概述.md",
+    "sub": [
+      {
+        "name": "使用前必读",
+        "title": "使用前必读",
+        "url": "/md-files/API参考/概述.md",
+        "sub": [
+          {
+            "name": "概述",
+            "title": "概述",
+            "url": "/md-files/API参考/概述.md"
+          },
+          {
+            "name": "调用说明",
+            "title": "调用说明",
+            "url": "/md-files/API参考/调用说明.md"
+          },
+          {
+            "name": "终端节点",
+            "title": "终端节点",
+            "url": "/md-files/API参考/终端节点.md"
+          },
+          {
+            "name": "约束限制",
+            "title": "约束限制",
+            "url": "/md-files/API参考/约束限制.md"
+          },
+          {
+            "name": "基本概念",
+            "title": "基本概念",
+            "url": "/md-files/API参考/基本概念.md"
+          }
+        ]
+      },
+      {
+        "name": "API概览",
+        "title": "API概览",
+        "url": "/md-files/API参考/API概览.md"
+      },
+      {
+        "name": "如何调用API",
+        "title": "如何调用API",
+        "url": "/md-files/API参考/构造请求.md",
+        "sub": [
+          {
+            "name": "API概览",
+            "title": "API概览",
+            "url": "/md-files/API参考/构造请求.md"
+          },
+          {
+            "name": "认证鉴权",
+            "title": "认证鉴权",
+            "url": "/md-files/API参考/认证鉴权.md"
+          },
+          {
+            "name": "返回结果",
+            "title": "返回结果",
+            "url": "/md-files/API参考/返回结果.md"
+          }
+        ]
+      },
+      {
+        "name": "快速入门",
+        "title": "快速入门",
+        "url": "/md-files/API参考/快速入门.md"
+      },
+      {
+        "name": "SFS API说明",
+        "title": "SFS API说明",
+        "url": "",
+        "sub": [
+          {
+            "name": "查询API版本",
+            "title": "查询API版本",
+            "url": "/md-files/API参考/查询所有API版本.md",
+            "sub": [
+              {
+                "name": "查询所有API版本",
+                "title": "查询所有API版本",
+                "url": "/md-files/API参考/查询所有API版本.md"
+              },
+              {
+                "name": "查询API版本的详细信息",
+                "title": "查询API版本的详细信息",
+                "url": "/md-files/API参考/查询API版本的详细信息.md"
+              }
+            ]
+          },
+          {
+            "name": "文件共享",
+            "title": "文件共享",
+            "url": "",
+            "sub": [
+              {
+                "name": "创建共享",
+                "title": "创建共享",
+                "url": "/md-files/API参考/创建共享.md"
+              },
+              {
+                "name": "查询所有共享",
+                "title": "查询所有共享",
+                "url": "/md-files/API参考/查询所有共享.md"
+              },
+              {
+                "name": "查询所有共享的详细信息",
+                "title": "查询所有共享的详细信息",
+                "url": "/md-files/API参考/查询所有共享的详细信息.md"
+              },
+              {
+                "name": "查询共享详细信息",
+                "title": "查询共享详细信息",
+                "url": "/md-files/API参考/查询共享详细信息.md"
+              },
+              {
+                "name": "查询共享挂载路径信息",
+                "title": "查询共享挂载路径信息",
+                "url": "/md-files/API参考/查询共享挂载路径信息.md"
+              },
+              {
+                "name": "删除共享",
+                "title": "删除共享",
+                "url": "/md-files/API参考/删除共享.md"
+              }
+            ]
+          },
+          {
+            "name": "共享访问规则",
+            "title": "共享访问规则",
+            "url": "",
+            "sub": [
+              {
+                "name": "添加共享访问规则",
+                "title": "添加共享访问规则",
+                "url": "/md-files/API参考/添加共享访问规则.md"
+              },
+              {
+                "name": "删除共享访问规则",
+                "title": "删除共享访问规则",
+                "url": "/md-files/API参考/删除共享访问规则.md"
+              },
+              {
+                "name": "查询共享访问规则",
+                "title": "查询共享访问规则",
+                "url": "/md-files/API参考/查询共享访问规则.md"
+              }
+            ]
+          },
+          {
+            "name": "配额管理",
+            "title": "配额管理",
+            "url": "/md-files/API参考/配额管理.md"
+          },
+          {
+            "name": "扩容缩容",
+            "title": "扩容缩容",
+            "url": "",
+            "sub": [
+              {
+                "name": "扩容共享",
+                "title": "扩容共享",
+                "url": "/md-files/API参考/扩容共享.md"
+              },
+              {
+                "name": "缩容共享",
+                "title": "缩容共享",
+                "url": "/md-files/API参考/缩容共享.md"
+              }
+            ]
+          },
+          {
+            "name": "共享标签",
+            "title": "共享标签",
+            "url": "",
+            "sub": [
+              {
+                "name": "添加共享标签",
+                "title": "添加共享标签",
+                "url": "/md-files/API参考/添加共享标签.md"
+              },
+              {
+                "name": "删除标签",
+                "title": "删除标签",
+                "url": "/md-files/API参考/删除标签.md"
+              },
+              {
+                "name": "查询共享的标签",
+                "title": "查询共享的标签",
+                "url": "/md-files/API参考/查询共享的标签.md"
+              },
+              {
+                "name": "查询租户所有共享的标签",
+                "title": "查询租户所有共享的标签",
+                "url": "/md-files/API参考/查询租户所有共享的标签.md"
+              },
+              {
+                "name": "批量添加标签",
+                "title": "批量添加标签",
+                "url": "/md-files/API参考/批量添加标签.md"
+              },
+              {
+                "name": "批量删除标签",
+                "title": "批量删除标签",
+                "url": "/md-files/API参考/批量删除标签.md"
+              },
+              {
+                "name": "根据标签查询共享详情",
+                "title": "根据标签查询共享详情",
+                "url": "/md-files/API参考/根据标签查询共享详情.md"
+              },
+              {
+                "name": "根据标签查询共享实例个数",
+                "title": "根据标签查询共享实例个数",
+                "url": "/md-files/API参考/根据标签查询共享实例个数.md"
+              }
+            ]
+          },
+          {
+            "name": "可用区",
+            "title": "可用区",
+            "url": "",
+            "sub": [
+              {
+                "name": "查询可用区",
+                "title": "查询可用区",
+                "url": "/md-files/API参考/查询可用区.md"
+              }
+            ]
+          },
+          {
+            "name": "共享Qos管理",
+            "title": "共享Qos管理",
+            "url": "",
+            "sub": [
+              {
+                "name": "修改共享Qos参数",
+                "title": "修改共享Qos参数",
+                "url": "/md-files/API参考/修改共享Qos参数.md"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SFS Turbo API说明",
+        "title": "SFS Turbo API说明",
+        "url": "",
+        "sub": [
+          {
+            "name": "生命周期管理",
+            "title": "生命周期管理",
+            "url": "",
+            "sub": [
+              {
+                "name": "创建文件系统",
+                "title": "创建文件系统",
+                "url": "/md-files/API参考/创建文件系统.md"
+              },{
+                "name": "删除文件系统",
+                "title": "删除文件系统",
+                "url": "/md-files/API参考/删除文件系统.md"
+              },{
+                "name": "查询所有文件系统的详细信息",
+                "title": "查询所有文件系统的详细信息",
+                "url": "/md-files/API参考/查询所有文件系统的详细信息.md"
+              },{
+                "name": "查询单个文件系统",
+                "title": "查询单个文件系统",
+                "url": "/md-files/API参考/查询单个文件系统.md"
+              }
+            ]
+          },
+          {
+            "name": "存储容量管理",
+            "title": "存储容量管理",
+            "url": "",
+            "sub": [
+              {
+                "name": "扩容文件系统",
+                "title": "扩容文件系统",
+                "url": "/md-files/API参考/扩容文件系统.md"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "权限和授权项",
+        "title": "权限和授权项",
+        "url": "",
+        "sub": [
+          {
+            "name": "权限及授权项说明",
+            "title": "权限及授权项说明",
+            "url": "/md-files/API参考/权限及授权项说明.md"
+          },
+          {
+            "name": "授权项分类",
+            "title": "授权项分类",
+            "url": "",
+            "sub": [
+              {
+                "name": "SFS授权项分类",
+                "title": "SFS授权项分类",
+                "url": "/md-files/API参考/SFS授权项分类.md"
+              },{
+                "name": "SFS Turbo授权项分类",
+                "title": "SFS Turbo授权项分类",
+                "url": "/md-files/API参考/SFS-Turbo授权项分类.md"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "公共参数",
+        "title": "公共参数",
+        "url": "",
+        "sub": [
+          {
+            "name": "SFS-Turbo文件系统状态",
+            "title": "SFS-Turbo文件系统状态",
+            "url": "/md-files/API参考/SFS-Turbo文件系统状态.md"
+          },
+          {
+            "name": "SFS-Turbo文件系统子状态",
+            "title": "SFS-Turbo文件系统子状态",
+            "url": "/md-files/API参考/SFS-Turbo文件系统子状态.md"
+          }
+        ]
+      },
+      {
+        "name": "附录",
+        "title": "附录",
+        "url": "",
+        "sub": [
+          {
+            "name": "状态码",
+            "title": "状态码",
+            "url": "/md-files/API参考/状态码.md"
+          },
+          {
+            "name": "获取项目ID",
+            "title": "获取项目ID",
+            "url": "/md-files/API参考/获取项目ID.md"
+          }
+        ]
+      }
+    ]
+  }
+]
+ 
